@@ -6,34 +6,14 @@
           <v-row class="first">
             <v-col cols="10" md="11" style="background-color:white">
               <v-row class="second">
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:red"
-                ></v-col>
+                <v-col cols="12" md="5" class="car" style="background-color:red" ></v-col>
                 <v-col cols="12" md="1" style="background-color:white"></v-col>
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:red"
-                ></v-col>
+                <v-col cols="12" md="5" class="car" style="background-color:red" ></v-col>
               </v-row>
               <v-row class="third">
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:red"
-                ></v-col>
+                <v-col cols="12" md="5" class="car" style="background-color:red" ></v-col>
                 <v-col cols="12" md="1" style="background-color:white"></v-col>
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:red"
-                ></v-col>
+                <v-col cols="12" md="5" class="car" style="background-color:red" ></v-col>
               </v-row>
             </v-col>
           </v-row>
@@ -45,58 +25,28 @@
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
           </v-row>
           <v-row class="plane2">
-            <v-col
-              cols="12"
-              md="4"
-              class="float1"
-              style="border:2px solid black"
-            ></v-col>
-            <v-col
-              cols="12"
-              md="4"
-              class="float1"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col cols="12" md="4" class="float1" style="border:2px solid black" ></v-col>
+            <v-col cols="12" md="4" class="float1" style="border:2px solid black" ></v-col>
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
           </v-row>
           <v-row class="plane2">
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
-            <v-col
-              cols="12"
-              md="4"
-              class="float1"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col cols="12" md="4" class="float1"  style="border:2px solid black" ></v-col>
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
           </v-row>
           <v-row class="plane2">
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
-            <v-col
-              cols="12"
-              md="4"
-              class="float1"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col cols="12"  md="4" class="float1" style="border:2px solid black" ></v-col>
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
           </v-row>
           <v-row class="plane2">
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
-            <v-col
-              cols="12"
-              md="4"
-              class="float1"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col cols="12" md="4" class="float1" style="border:2px solid black"></v-col>
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
           </v-row>
           <v-row class="plane2">
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
-            <v-col
-              cols="12"
-              md="4"
-              class="float1"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col cols="12" md="4" class="float1" style="border:2px solid black" ></v-col>
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
           </v-row>
         </v-col>
@@ -104,42 +54,22 @@
           <v-row class="first">
             <v-col cols="10" md="11" style="background-color:white">
               <v-row class="second">
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:yellow"
-                ></v-col>
+                <v-col cols="12"  md="5" class="car" style="background-color:yellow" ></v-col>
                 <v-col cols="12" md="1" style="background-color:white"></v-col>
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:yellow"
-                ></v-col>
+                <v-col cols="12" md="5" class="car" style="background-color:yellow" ></v-col>
               </v-row>
               <v-row class="third">
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:yellow"
-                ></v-col>
+                <v-col cols="12" md="5" class="car"  style="background-color:yellow" ></v-col>
                 <v-col cols="12" md="1" style="background-color:white"></v-col>
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:yellow"
-                ></v-col>
+                <v-col cols="12" md="5" class="car" style="background-color:yellow"></v-col>
               </v-row>
             </v-col>
           </v-row>
         </v-col>
       </v-row>
       <v-row class="height2" style="border:2px solid black">
-        <v-col cols="12" md="5">
-          <v-row>
+        <v-col cols="12" md="5" >
+          <v-row class="bluetooth">
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
@@ -147,47 +77,17 @@
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
           </v-row>
-          <v-row>
+          <v-row class="bluetooth">
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane"
-              style="border:2px solid black"
-            ></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane"
-              style="border:2px solid black"
-            ></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane"
-              style="border:2px solid black"
-            ></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane"
-              style="border:2px solid black"
-            ></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col cols="12" md="2" class="plane" style="border:2px solid black" ></v-col>
+            <v-col cols="12" md="2" class="plane" style="border:2px solid black" ></v-col>
+            <v-col cols="12" md="2" class="plane" style="border:2px solid black"></v-col>
+            <v-col cols="12" md="2" class="plane" style="border:2px solid black" ></v-col>
+            <v-col cols="12"  md="2" class="plane"  style="border:2px solid black" ></v-col>
           </v-row>
-          <v-row>
+          <v-row class="bluetooth">
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col  cols="12"  md="2" class="plane" style="border:2px solid black" ></v-col>
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
@@ -208,45 +108,15 @@
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane1"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col  cols="12" md="2"  class="plane1" style="border:2px solid black" ></v-col>
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
           </v-row>
           <v-row>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane1"
-              style="border:2px solid black"
-            ></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane1"
-              style="border:2px solid black"
-            ></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane1"
-              style="border:2px solid black"
-            ></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane1"
-              style="border:2px solid black"
-            ></v-col>
-            <v-col
-              cols="12"
-              md="2"
-              class="plane1"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col cols="12"  md="2"  class="plane1" style="border:2px solid black"></v-col>
+            <v-col cols="12" md="2" class="plane1" style="border:2px solid black" ></v-col>
+            <v-col cols="12" md="2" class="plane1" style="border:2px solid black" ></v-col>
+            <v-col cols="12"  md="2" class="plane1" style="border:2px solid black" ></v-col>
+            <v-col cols="12" md="2" class="plane1" style="border:2px solid black" ></v-col>
             <v-col cols="12" md="2" style="border:2px solid black"></v-col>
           </v-row>
           <v-row>
@@ -264,34 +134,14 @@
           <v-row class="first">
             <v-col cols="10" md="11" style="background-color:white">
               <v-row class="second">
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:blue"
-                ></v-col>
+                <v-col  cols="12" md="5"  class="car"  style="background-color:blue" ></v-col>
                 <v-col cols="12" md="1" style="background-color:white"></v-col>
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:blue"
-                ></v-col>
+                <v-col  cols="12" md="5" class="car" style="background-color:blue" ></v-col>
               </v-row>
               <v-row class="third">
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:blue"
-                ></v-col>
+                <v-col cols="12" md="5"  class="car"  style="background-color:blue"></v-col>
                 <v-col cols="12" md="1" style="background-color:white"></v-col>
-                <v-col
-                  cols="12"
-                  md="5"
-                  class="car"
-                  style="background-color:blue"
-                ></v-col>
+                <v-col cols="12"  md="5"  class="car"  style="background-color:blue" ></v-col>
               </v-row>
             </v-col>
           </v-row>
@@ -299,22 +149,12 @@
         <v-col cols="12" md="2" style="border:2px solid black">
           <v-row class="plane3">
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
-            <v-col
-              cols="12"
-              md="4"
-              class="float2"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col  cols="12"   md="4" class="float2" style="border:2px solid black" ></v-col>
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
           </v-row>
           <v-row class="plane3">
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
-            <v-col
-              cols="12"
-              md="4"
-              class="float2"
-              style="border:2px solid black"
-            ></v-col>
+            <v-col cols="12"   md="4"  class="float2" style="border:2px solid black" ></v-col>
             <v-col cols="12" md="4" style="border:2px solid black"></v-col>
           </v-row>
           <v-row class="plane3">
@@ -501,4 +341,7 @@
   width: 5px;
   margin-left: 2px;
 }
+/* .bluetooth{
+  height:34px;  
+} */
 </style>
